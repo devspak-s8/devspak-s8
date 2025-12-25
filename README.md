@@ -11,7 +11,24 @@
 
 ---
 
-## 📊 GitHub Performance
+## 🚀 Featured Projects (Best Work)
+
+<p align="center">
+  <a href="https://github.com/devup-io/devup-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devup-io&repo=devup-frontend&hide_border=true" />
+  </a>
+  <a href="https://github.com/devup-io/devup-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devup-io&repo=devup-backend&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Production-ready frontend & backend systems built for scale.</em>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devspak-s8&show_icons=true&hide_border=true" height="160" />
@@ -24,16 +41,24 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devspak-s8&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
 ## 🧭 About Me
 
-Hello, I’m **Sulayman Apatira** — a frontend developer and UI/UX designer focused on building **clean, scalable, and meaningful digital experiences**.
+I’m **Sulayman Apatira**, a frontend developer and UI/UX designer focused on building **clean, scalable, and meaningful digital experiences**.
 
 I specialize in:
 - ⚛️ High-performance React applications  
 - 🧩 Scalable design systems  
-- 🎯 Intuitive, accessible interfaces  
+- 🎯 Accessible, intuitive user interfaces  
 
-Beyond technology, I’m committed to **ethical innovation, education, and Islamic values**, ensuring the products I build are not only effective, but **purposeful and responsible**.
+I build with a strong foundation in **ethics, education, and Islamic values**, ensuring technology serves real people with real impact.
 
 ---
 
@@ -43,20 +68,20 @@ Beyond technology, I’m committed to **ethical innovation, education, and Islam
 - React.js (Hooks, Context, Performance Optimization)
 - TypeScript (strict typing, scalable architecture)
 - Tailwind CSS, SASS, Bootstrap
-- Component-driven development (Shadcn UI)
+- Component-driven UI (Shadcn UI)
 - Animations & interactions (Framer Motion)
 - Data visualization (Chart.js)
 
 ### 🧩 UI / UX Design
-- User-centered design thinking
+- User-centered design
 - Wireframing & prototyping (Figma, FigJam)
 - Design systems & reusable components
-- Accessibility (WCAG) & responsive design
+- Accessibility & responsive design
 
 ### 🚀 Tooling & Delivery
-- Git & GitHub (clean commits, PR hygiene)
+- Git & GitHub (clean commits & PRs)
 - Vercel, Netlify
-- Performance audits & optimization
+- Performance optimization & audits
 
 ---
 
@@ -70,40 +95,7 @@ Beyond technology, I’m committed to **ethical innovation, education, and Islam
 
 **UI / UX**  
 ![Figma](https://img.shields.io/badge/Figma-Expert-F24E1E?style=for-the-badge&logo=figma)
-![Design Systems](https://img.shields.io/badge/Design_Systems-Advanced-000000?style=for-the-badge)
-
-**Motion & Data**  
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-Strong-0055FF?style=for-the-badge)
-![Chart.js](https://img.shields.io/badge/Chart.js-Proficient-FF6384?style=for-the-badge)
-
----
-
-## 🧱 What I Build
-
-| 🚀 Product Interfaces | 🎨 Design Systems | 📊 Dashboards |
-|----------------------|------------------|--------------|
-| SaaS platforms | UI libraries | Analytics dashboards |
-| Developer tools | Component kits | Admin panels |
-| Landing pages | Theming systems | Metrics & reporting |
-
----
-
-## 🎥 Selected Work
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devspak-s8&repo=YOUR_REPO_1&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devspak-s8&repo=YOUR_REPO_2&hide_border=true" />
-</p>
-
-> Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your best projects.
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devspak-s8&theme=github-compact&hide_border=true" />
-</p>
+![Design_Systems](https://img.shields.io/badge/Design_Systems-Advanced-000000?style=for-the-badge)
 
 ---
 
