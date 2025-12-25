@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Sulayman Apatira
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=800&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Design+Systems+Engineer;Purpose-Driven+Product+Builder;Clean+Code+%E2%80%A2+Ethical+Innovation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=800&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+UI%2FUX+Designer;Design+Systems+Engineer;Purpose-Driven+Product+Builder;Clean+Code+%E2%80%A2+Ethical+Innovation" />
 </p>
 
 <p align="center">
-  <strong>Frontend Developer • UI/UX Designer • Islamic Scholar</strong><br/>
+  <strong>Full Stack Developer • UI/UX Designer • Hafiz</strong><br/>
   <em>React • TypeScript • Design Systems • Purpose-Driven Products</em>
 </p>
 
@@ -14,11 +14,11 @@
 ## 🚀 Featured Projects (Best Work)
 
 <p align="center">
-  <a href="https://github.com/devup-io/devup-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devup-io&repo=devup-frontend&hide_border=true" />
+  <a href="https://github.com/devspak-s8/devUP_Backend">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devspak-s8&theme=default" />
   </a>
   <a href="https://github.com/devup-io/devup-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=devup-io&repo=devup-backend&hide_border=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devspak-s8&theme=default" />
   </a>
 </p>
 
@@ -28,15 +28,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Stable Alternative)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devspak-s8&show_icons=true&hide_border=true" height="160" />
-  <img src="https://streak-stats.demolab.com?user=devspak-s8&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devspak-s8&layout=compact&langs_count=6&hide_border=true" height="140" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devspak-s8&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devspak-s8&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devspak-s8&theme=default" />
 </p>
 
 ---
@@ -51,7 +48,7 @@
 
 ## 🧭 About Me
 
-I’m **Sulayman Apatira**, a frontend developer and UI/UX designer focused on building **clean, scalable, and meaningful digital experiences**.
+I’m **Sulayman Apatira**, a full stack developer and UI/UX designer focused on building **clean, scalable, and meaningful digital experiences**.
 
 I specialize in:
 - ⚛️ High-performance React applications  
