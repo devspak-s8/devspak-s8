@@ -1,17 +1,25 @@
-# 👋 Sulayman Apatira
-
-### **Frontend Developer | UI/UX Designer | Islamic Scholar**
-*React • TypeScript • Design Systems • Purpose-Driven Products*
-
----
+# 👋 Hi, I’m Sulayman Apatira
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devspak-s8&show_icons=true&theme=transparent" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devspak-s8&theme=transparent" height="150" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=800&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+UI%2FUX+Designer;Design+Systems+Engineer;Purpose-Driven+Product+Builder;Clean+Code+%E2%80%A2+Ethical+Innovation" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devspak-s8&layout=compact&theme=transparent" height="140" />
+  <strong>Frontend Developer • UI/UX Designer • Islamic Scholar</strong><br/>
+  <em>React • TypeScript • Design Systems • Purpose-Driven Products</em>
+</p>
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devspak-s8&show_icons=true&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=devspak-s8&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devspak-s8&layout=compact&langs_count=6&hide_border=true" height="140" />
 </p>
 
 ---
@@ -20,9 +28,12 @@
 
 Hello, I’m **Sulayman Apatira** — a frontend developer and UI/UX designer focused on building **clean, scalable, and meaningful digital experiences**.
 
-I specialize in crafting **high-performance React applications**, robust **design systems**, and **intuitive user interfaces** that balance aesthetics, accessibility, and performance.
+I specialize in:
+- ⚛️ High-performance React applications  
+- 🧩 Scalable design systems  
+- 🎯 Intuitive, accessible interfaces  
 
-Beyond technology, I am deeply committed to **education, ethical innovation, and Islamic values**, ensuring that the products I build are not only effective but also purposeful and socially responsible.
+Beyond technology, I’m committed to **ethical innovation, education, and Islamic values**, ensuring the products I build are not only effective, but **purposeful and responsible**.
 
 ---
 
@@ -30,52 +41,40 @@ Beyond technology, I am deeply committed to **education, ethical innovation, and
 
 ### 🎨 Frontend Engineering
 - React.js (Hooks, Context, Performance Optimization)
-- TypeScript (Strict typing, scalable architectures)
-- Tailwind CSS, SASS, Bootstrap 5
-- Component-driven UI development (Shadcn UI)
-- Motion & interactions (Framer Motion)
+- TypeScript (strict typing, scalable architecture)
+- Tailwind CSS, SASS, Bootstrap
+- Component-driven development (Shadcn UI)
+- Animations & interactions (Framer Motion)
 - Data visualization (Chart.js)
 
 ### 🧩 UI / UX Design
 - User-centered design thinking
 - Wireframing & prototyping (Figma, FigJam)
 - Design systems & reusable components
-- Accessibility & responsive design
+- Accessibility (WCAG) & responsive design
 
 ### 🚀 Tooling & Delivery
-- Git & GitHub (clean commits & collaboration)
-- Deployment: Vercel, Netlify
-- Performance optimization & best practices
+- Git & GitHub (clean commits, PR hygiene)
+- Vercel, Netlify
+- Performance audits & optimization
 
 ---
 
 ## 🧩 Skill Proficiency
 
-**Frontend**
-![React](https://img.shields.io/badge/React-90%25-61DAFB?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-90%25-38B2AC?style=for-the-badge&logo=tailwindcss)
-![SASS](https://img.shields.io/badge/SASS-80%25-CC6699?style=for-the-badge&logo=sass)
+**Frontend**  
+![React](https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-Expert-38B2AC?style=for-the-badge&logo=tailwindcss)
+![SASS](https://img.shields.io/badge/SASS-Strong-CC6699?style=for-the-badge&logo=sass)
 
-**UI / UX**
-![Figma](https://img.shields.io/badge/Figma-85%25-F24E1E?style=for-the-badge&logo=figma)
-![Design Systems](https://img.shields.io/badge/Design_Systems-90%25-000000?style=for-the-badge)
+**UI / UX**  
+![Figma](https://img.shields.io/badge/Figma-Expert-F24E1E?style=for-the-badge&logo=figma)
+![Design Systems](https://img.shields.io/badge/Design_Systems-Advanced-000000?style=for-the-badge)
 
-**Motion & Data**
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-80%25-0055FF?style=for-the-badge)
-![Chart.js](https://img.shields.io/badge/Chart.js-75%25-FF6384?style=for-the-badge)
-
----
-
-## 📊 Technology Stack
-
-| Category | Tools |
-|--------|------|
-| **Frontend** | React, TypeScript, Tailwind CSS, SASS |
-| **UI Systems** | Shadcn UI, Framer Motion |
-| **Charts & Data** | Chart.js |
-| **Design** | Figma, FigJam, Canva |
-| **Deployment** | GitHub, Vercel, Netlify |
+**Motion & Data**  
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-Strong-0055FF?style=for-the-badge)
+![Chart.js](https://img.shields.io/badge/Chart.js-Proficient-FF6384?style=for-the-badge)
 
 ---
 
@@ -83,70 +82,84 @@ Beyond technology, I am deeply committed to **education, ethical innovation, and
 
 | 🚀 Product Interfaces | 🎨 Design Systems | 📊 Dashboards |
 |----------------------|------------------|--------------|
-| SaaS platforms | Scalable UI libraries | Analytics dashboards |
-| Developer tools | Component systems | Metrics & reporting |
-| Landing pages | Consistent theming | Admin panels |
+| SaaS platforms | UI libraries | Analytics dashboards |
+| Developer tools | Component kits | Admin panels |
+| Landing pages | Theming systems | Metrics & reporting |
+
+---
+
+## 🎥 Selected Work
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devspak-s8&repo=YOUR_REPO_1&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devspak-s8&repo=YOUR_REPO_2&hide_border=true" />
+</p>
+
+> Replace `YOUR_REPO_1` and `YOUR_REPO_2` with your best projects.
 
 ---
 
 ## 📈 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devspak-s8&theme=github-compact)
-
----
-
-## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devspak-s8&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devspak-s8&theme=transparent" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devspak-s8&theme=transparent" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devspak-s8&theme=transparent" height="160"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devspak-s8&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-## ⚡ Development Metrics
+## 🏆 GitHub Trophies
 
-- 🟦 Frontend Engineering ██████████ 90%
-- 🟪 UI / UX Design █████████░ 85%
-- 🟨 Performance Optimization ████████░ 80%
-- 🟥 Accessibility & UX ████████░ 80%
-- 🟩 System Thinking █████████░ 85%
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devspak-s8&row=1&column=7&no-frame=true" />
+</p>
 
 ---
 
-## 📈 Development Philosophy
+## 🌍 Personal Website
+
+<p align="center">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="https://yourwebsite.com/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:YOUREMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📐 Development Philosophy
 
 > **“Build with vision. Lead with values.”**
 
-I believe great software is:
-
-- **Intentional** — every feature solves a real problem  
-- **Maintainable** — built to scale and evolve  
-- **Accessible** — usable by everyone  
-- **Ethical** — aligned with values and positive impact  
-
-I approach every project with long-term thinking, clean architecture, and deep respect for users.
-
----
-
-## 🤝 Let’s Collaborate
-
-I’m open to:
-
-- Frontend & UI/UX roles  
-- Contract & freelance projects  
-- Open-source collaboration  
-- Purpose-driven startups  
-
-If you’re building something meaningful and need a frontend engineer who cares about **quality, values, and impact**, let’s connect.
+I believe great software should be:
+- Intentional  
+- Maintainable  
+- Accessible  
+- Ethical  
 
 ---
 
