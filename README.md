@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <strong>Full Stack Developer • UI/UX Designer • Hafiz</strong><br/>
+  <strong>Full Stack Developer • UI/UX Designer </strong><br/>
   <em>React • TypeScript • Design Systems • Purpose-Driven Products</em>
 </p>
 
